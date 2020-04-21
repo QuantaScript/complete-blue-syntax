@@ -1,7 +1,7 @@
 {
   "name": "complete-blue-syntax",
   "theme": "syntax",
-  "version": "2.1.0",
+  "version": "0.0.0",
   "description": "A blue syntax theme for the Atom text editor.",
   "keywords": [
     "syntax",
